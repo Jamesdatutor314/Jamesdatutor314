@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="images/headergh2.gif" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Jamesdatutor314/photos/main/images/headergh2.gif" alt="Banner" width="100%">
 </p>
 
 ---
