@@ -45,6 +45,7 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
 **Description:** This project focuses on analyzing customer behavior for the telecom operator Megaline. The objective is to determine which of two prepaid plans—Surf or Ultimate—generates more revenue to help the commercial department optimize the advertising budget. The analysis is based on a sample of 500 clients from the year 2018. [View Project](https://github.com/Jamesdatutor314/Statistical-Data-Analysis-Project)
 
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, SciPy, Jupyter Notebook
+<hr style="border:none; border-top:2px dashed #666;">
 
 ### 🔵 Project 2: Software Dev Exploratory Data Analysis
 **Description:** This project focuses on analyzing a video game sales dataset to uncover trends in global and regional sales performance. The dataset includes video games that sold at least 100000 copies globally and features sales across North America, Europe, Japan, and other regions. The main goal is to explore the data using Streamlit. [View Project](https://github.com/Jamesdatutor314/software-dev-project?tab=readme-ov-file)
