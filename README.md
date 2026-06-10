@@ -78,7 +78,7 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
 **Tech Stack:** R, RStudio, LaTeX, Jupyter Notebook
 <hr style="border:none; border-top:2px dashed #666;">
 
-### 🟢 Project 6: Statistical Analysis on Price of Pizza (Animated Video Presentation)
+### 🟢 Project 7: Statistical Analysis on Price of Pizza (Animated Video Presentation)
 **Description:** Performed descriptive statistics analysis on pizza dataset utilizing summary statistics, histogram, scatter, line, and box plots to identify variable distributions and correlations. Determined if there was a significant association between the price of pizza and toppings by implementing inference statistics, including the Chi-Square test of Independence. Utilized feature engineering to manipulate and consolidate the raw pizza dataset into a standardized format for statistical analysis. [View Project](https://github.com/Jamesdatutor314/Statistical_Analysis_on_Price_of_Pizza-with-python)
 
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Statsmodels, Jupyter Notebook
