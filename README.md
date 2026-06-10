@@ -35,6 +35,7 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white" alt="Seaborn">
 </p>
 
 ---
